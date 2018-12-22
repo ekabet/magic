@@ -1,0 +1,10 @@
+{
+  "name": "magic",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp-eslint": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}

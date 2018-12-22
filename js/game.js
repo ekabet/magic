@@ -820,6 +820,5 @@ window.Game = (function () {
   };
 
   window.restartGame('img/wizard.gif', 'img/wizard-reversed.gif');
-
   return game;
 })();
