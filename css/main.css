@@ -874,5 +874,5 @@ input[type=radio]:checked + .review-mark-label {
 .alex {
   height: 100px;
   width: 100px;
-  background-color: #000000;
+  background-color: red;
 }
